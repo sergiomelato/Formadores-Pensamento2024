@@ -12,6 +12,6 @@ display: flex;
 justify-content: center;
 
 }
-div{
-    margin-right: 80px;
+.chamada-texto {
+    margin-right: 5%;
 }
